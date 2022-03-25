@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_kategorija_componentas",
+  "info": {
+    "displayName": "componenta",
+    "icon": "ambulance"
+  },
+  "options": {},
+  "attributes": {
+    "SSS": {
+      "type": "string"
+    }
+  }
+}
